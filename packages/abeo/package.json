@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +17,5 @@
   "dependencies": {
     "typen": "^0.1.4"
   },
-  "gitHead": "74fd79c91bcc5e767e15e6edf1227e14eb2a1958"
+  "gitHead": "47863bbd3852f43d7012f8006fdc825bcdad4194"
 }
