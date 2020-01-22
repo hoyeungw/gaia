@@ -13,5 +13,6 @@
   "license": "MIT",
   "dependencies": {
     "typen": "^0.1.4"
-  }
+  },
+  "gitHead": "74fd79c91bcc5e767e15e6edf1227e14eb2a1958"
 }
