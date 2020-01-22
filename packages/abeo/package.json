@@ -1,0 +1,17 @@
+{
+  "name": "@gaia/abeo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "abeo"
+  ],
+  "author": "Hoyeung Wong",
+  "license": "MIT",
+  "dependencies": {
+    "typen": "^0.1.4"
+  }
+}

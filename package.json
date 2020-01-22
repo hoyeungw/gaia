@@ -1,0 +1,15 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "prewatch": "npm run bootstrap",
+    "build": "lerna exec --parallel -- rollup -c ../../rollup.config.js"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}
